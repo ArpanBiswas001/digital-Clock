@@ -1,6 +1,6 @@
 # DIGITAL-CLOCK
-
-If the fade-in and fade-out effects are not working, let's ensure everything is properly configured. Here’s a complete and corrected version of the project files to achieve the fade-out and fade-in effect:
+---------------------------------------------------------------------------------------------------------------------------------------------------
+It is simple clock which shows time and a javasript feature that toggle between CLOCK and घड़ी in every 3 second.
 
 Project Overview
 This project includes:
