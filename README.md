@@ -1,4 +1,4 @@
-#DIGITAL CLOCK
+# DIGITAL-CLOCK
 
 If the fade-in and fade-out effects are not working, let's ensure everything is properly configured. Here’s a complete and corrected version of the project files to achieve the fade-out and fade-in effect:
 
